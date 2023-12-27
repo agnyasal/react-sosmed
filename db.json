@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "username": "geaaa",
+      "email": "gea@mail.com",
+      "password": "Admin123.",
+      "id": 1
+    },
+    {
+      "username": "adieb",
+      "email": "dieb@mail.com",
+      "password": "Admin123.",
+      "id": 2
+    },
+    {
+      "username": "adieb",
+      "email": "dieb@yuhuu.com",
+      "password": "Admin123.",
+      "id": 3
+    },
+    {
+      "username": "geaaa",
+      "email": "apaya@mail.com",
+      "password": "Admin123.",
+      "id": 4
+    },
+    {
+      "username": "geaaa",
+      "email": "gea@apa.com",
+      "password": "Admin123.",
+      "id": 5
+    },
+    {
+      "username": "geaaa",
+      "email": "gea@apaya.com",
+      "password": "Admin123.",
+      "id": 6
+    },
+    {
+      "username": "geaaa",
+      "email": "gea@apalagi.com",
+      "password": "Admin123.",
+      "id": 7
+    },
+    {
+      "username": "geaa",
+      "email": "gea112@gmail.com",
+      "password": "Admin123.",
+      "id": 8
+    },
+    {
+      "username": "gea321",
+      "email": "gea321@mail.com",
+      "password": "Admin123.",
+      "id": 9
+    }
+  ],
+  "tweets": [
+    {
+      "tweet": "asdasd",
+      "userId": 9,
+      "createdAt": "2023-12-02T18:28:57.420Z",
+      "id": 1
+    },
+    {
+      "tweet": "huft",
+      "userId": 9,
+      "createdAt": "2023-12-03T01:58:49.513Z",
+      "id": 2
+    },
+    {
+      "tweet": "hum",
+      "userId": 9,
+      "createdAt": "2023-12-03T02:09:36.030Z",
+      "id": 3
+    },
+    {
+      "tweet": "apaya",
+      "userId": 1,
+      "createdAt": "2023-12-04T03:07:04.261Z",
+      "id": 5
+    },
+    {
+      "tweet": "iyaaw",
+      "userId": 9,
+      "createdAt": "2023-12-09T05:07:50.357Z",
+      "id": 6
+    },
+    {
+      "tweet": "nemu jg errornya WKWKWK",
+      "userId": 9,
+      "createdAt": "2023-12-09T05:25:56.370Z",
+      "id": 7
+    },
+    {
+      "tweet": "bingung tidak ya",
+      "userId": 9,
+      "createdAt": "2023-12-09T06:58:06.708Z",
+      "id": 8
+    },
+    {
+      "tweet": "lelah  yaaa",
+      "userId": 2,
+      "createdAt": "2023-12-09T07:04:40.176Z",
+      "id": 9
+    },
+    {
+      "tweet": "testiww",
+      "userId": 9,
+      "createdAt": "2023-12-09T12:43:33.294Z",
+      "id": 10
+    },
+    {
+      "tweet": "gabut",
+      "userId": 9,
+      "createdAt": "2023-12-09T12:47:21.065Z",
+      "id": 11
+    },
+    {
+      "tweet": "apanic",
+      "userId": 9,
+      "createdAt": "2023-12-09T12:49:05.359Z",
+      "id": 12
+    },
+    {
+      "tweet": "sabar",
+      "userId": 2,
+      "createdAt": "2023-12-09T13:01:26.218Z",
+      "id": 13
+    },
+    {
+      "tweet": "test",
+      "userId": 9,
+      "createdAt": "2023-12-11T01:56:44.427Z",
+      "id": 14
+    },
+    {
+      "tweet": "heello\n",
+      "userId": 9,
+      "createdAt": "2023-12-11T05:05:22.489Z",
+      "id": 15
+    },
+    {
+      "tweet": "mager sekali",
+      "userId": 9,
+      "createdAt": "2023-12-17T11:39:53.337Z",
+      "id": 16
+    },
+    {
+      "tweet": "hello",
+      "userId": 9,
+      "createdAt": "2023-12-19T09:06:06.373Z",
+      "id": 17
+    }
+  ]
+}
